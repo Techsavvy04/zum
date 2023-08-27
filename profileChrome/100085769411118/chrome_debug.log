@@ -1,0 +1,5 @@
+[5704:4972:0822/075103.534:WARNING:chrome_main_delegate.cc(607)] This is Chrome version 109.0.5414.149 (not a warning)
+[5704:136:0822/075108.558:WARNING:page_discarding_helper.cc(126)] Urgently discarding multiple pages with target (kb): 0
+[5704:4972:0822/075108.631:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[5704:4972:0822/075108.631:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[5704:4972:0822/075110.889:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
